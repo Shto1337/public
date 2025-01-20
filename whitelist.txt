@@ -1,2 +1,4 @@
 ||amazon.com^
 ||advertising.amazon.com^
+||ereaderiq.com^
+||www.ereaderiq.com^
