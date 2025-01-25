@@ -1,6 +1,4 @@
-||amazon.com^
-||advertising.amazon.com^
-||ereaderiq.com^
-||www.ereaderiq.com^
-||alexstockel.ro^
-||www.alexstockel.ro
+@@||amazon.com^
+@@||advertising.amazon.com^
+@@||ereaderiq.com^
+@@||www.ereaderiq.com^
