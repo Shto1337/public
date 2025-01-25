@@ -2,3 +2,5 @@
 ||advertising.amazon.com^
 ||ereaderiq.com^
 ||www.ereaderiq.com^
+||alexstockel.ro^
+||www.alexstockel.ro
