@@ -1,4 +1,4 @@
-@@||amazon.com^
-@@||advertising.amazon.com^
-@@||ereaderiq.com^
-@@||www.ereaderiq.com^
+@@||amazon.com^$important
+@@||advertising.amazon.com^$important
+@@||ereaderiq.com^$important
+@@||www.ereaderiq.com^$important
