@@ -2,3 +2,5 @@
 @@||advertising.amazon.com^$important
 @@||ereaderiq.com^$important
 @@||www.ereaderiq.com^$important
+@@||publishdrive.com^$important
+@@||www.publishdrive.com^$important
