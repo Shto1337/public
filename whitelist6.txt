@@ -1,0 +1,11 @@
+@@||www.alexstockel.ro^$important
+@@||alexstockel.ro^$important
+@@||amazon.com^$important
+@@||advertising.amazon.com^$important
+@@||ereaderiq.com^$important
+@@||www.ereaderiq.com^$important
+@@||publishdrive.com^$important
+@@||www.publishdrive.com^$important
+@@||dashboard.bookfunnel.com^$important
+@@||bookfunnel.com^$important
+@@||google.com^$important
