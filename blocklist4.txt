@@ -1,0 +1,40 @@
+||baidu.com^
+! --- Firebase core ---
+||firebaseio.com^
+||firebasedatabase.app^
+||firebaseapp.com^
+||firebase.google.com^
+||firebase.googleapis.com^
+||firestore.googleapis.com^
+||firebasestorage.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||firebaseremoteconfigrealtime.googleapis.com^
+||firebaselogging.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||firebaseappcheck.googleapis.com^
+||firebaseinappmessaging.googleapis.com^
+||firebaseml.googleapis.com^
+||firebasedynamiclinks.googleapis.com^
+
+! --- Auth (also used by Google Identity Platform) ---
+||identitytoolkit.googleapis.com^
+||securetoken.googleapis.com^
+
+! --- Cloud Messaging (FCM) ---
+||fcm.googleapis.com^
+||fcmtoken.googleapis.com^
+||fcmregistrations.googleapis.com^
+||mtalk.google.com^
+
+! --- Crashlytics ---
+||crashlytics.com^
+||crashlyticsreports-pa.googleapis.com^
+
+! --- Analytics for Firebase ---
+||app-measurement.com^
+
+! --- Hosting / Functions / Dynamic Links (broad, see notes) ---
+||web.app^
+||cloudfunctions.net^
+||page.link^
